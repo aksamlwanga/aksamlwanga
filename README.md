@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aksamlwanga
+- 👋 Hi, I’m Lwanga Aksam
 - 👀 I’m interested in Web and Application Development 
 - 🌱 I’m currently learning A.I
 - 💞️ I’m looking to collaborate on Embedded Systems
